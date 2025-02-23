@@ -1,4 +1,4 @@
-# CareShare Chatbot – AI-Powered Medical Donation Assistant 
+# CareShare Chatbot – AI-Powered Medical Assistant 
 
 ##  Overview
 The **CareShare Chatbot** is an AI-powered virtual assistant designed to enhance user interaction on the **CareShare platform**, which facilitates the donation and sharing of **unused medications and medical equipment**. Built using **Large Language Models (LLMs)**, the chatbot leverages **Natural Language Processing (NLP)** to provide seamless, real-time assistance. Users can **type their queries**, and the chatbot responds in both **text and voice**, making it accessible to a diverse audience, including those who prefer auditory interaction. It efficiently handles **questions related to donation eligibility, platform navigation, and verification processes**, ensuring a smooth experience for both **donors and recipients**.  
